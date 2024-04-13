@@ -3,8 +3,8 @@
 
 # 特点
 1. Rclone挂载网盘作为EMBY的片源仓库。
-2. 2. 同一个网盘搭建了列表程序（goindex，oneindex，onemanager）。 
-3. 3. 播放时不走服务器流量，播放网盘直链。
+2. 同一个网盘搭建了列表程序（goindex，oneindex，onemanager）。 
+3. 播放时不走服务器流量，播放网盘直链。
 
 # 效果
 EMBY和Goindex挂载同一个谷歌网盘，目录结构基本一样。
