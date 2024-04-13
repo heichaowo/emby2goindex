@@ -12,9 +12,9 @@ EMBY和Goindex挂载同一个谷歌网盘，目录结构基本一样。
 
 按按钮调用potplayer，播放网盘直链
 
-<img width="658" alt="image" src="https://raw.githubusercontent.com/beiona/emby-goindex-potplayer/main/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/emby-goindex-potplayer01.png">
+<img width="658" alt="image" src="https://raw.githubusercontent.com/heichaowo/emby2goindex/main/emby-goindex-potplayer01.png">
 
-<img width="658" alt="image" src="https://raw.githubusercontent.com/beiona/emby-goindex-potplayer/main/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/emby-goindex-potplayer02.png">
+<img width="658" alt="image" src="https://raw.githubusercontent.com/heichaowo/emby2goindex/main/emby-goindex-potplayer02.png">
 
 
 # 使用方法
